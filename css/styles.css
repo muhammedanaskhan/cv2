@@ -1,0 +1,209 @@
+body{
+    margin: 0;
+}
+h1{
+    color: 48b198;
+    margin-top: 0;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+p{
+    color: 48b198;
+    text-align: center;
+}
+
+.top-container{
+    position: relative;
+    background-color: #E0E9E6;
+    padding-top: 100PX;
+}
+.aboutme{
+    margin-top: 100px;
+    font-family: Bradley Hand, cursive;
+    font-size: larger;
+}
+.cloudleft{
+   position: absolute; 
+    width: 200px;
+    height: 200px;
+    left:50px;
+}
+
+.cloudtop{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    right: 90px;
+}
+.developer{
+  position: relative;
+  margin-left: 370px;
+  margin-top: 70px;
+     
+}
+.second{
+    
+    padding-top: 100px;
+    
+}
+.profile-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    
+    height: 150px;
+    
+}
+.mydescription{
+    margin-top: 35px;
+}
+.heading{
+    text-align: center;
+    color: 48b198;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.desc{
+    font-family: Palatino, URW Palladio L, serif;
+    font-size: larger;
+    line-height: 2;
+    color: black;
+}
+.first-block{
+    position: relative;
+   width: 600px;
+   height: 100px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 130px;
+   background-color: #E0E9E6;
+}
+.whatcanido{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+   position: relative;
+   top: 50%;
+   transform: translateY(-50%);
+}
+.designheading{
+    text-align: left;
+    color: 48b198;
+    margin-left: 50%;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.designdiv{
+    position: relative;
+    text-align: center;
+    margin-top: 80px;
+}
+.designdesc{
+    display: flex;
+    text-align: left;
+    margin-left: 50%;
+    line-height: 2;
+    align-items: center;
+    font-family: Palatino, URW Palladio L, serif;
+    font-size: larger;
+    color: black;
+}
+.figmalogo{
+  position: absolute;
+  left: 550px;
+    width: 50px;
+    height: 50px;
+    margin-top: 35px;
+    
+}
+.profile-pic-small{
+    position: absolute;
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    right: 100px;
+    left: 400px;
+}
+.designheadingsecond{
+    text-align: left;
+    color: 48b198;
+    margin-left: 20%;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.designdivsecond{
+    position: relative;
+    text-align: center;
+    margin-top: 80px;
+}
+.designdescsecond{
+    display: flex;
+    text-align: left;
+    margin-left: 20%;
+    line-height: 2;
+    align-items: center;
+    font-family: Palatino, URW Palladio L, serif;
+    font-size: larger;
+    color: black;
+}
+.codelogo{
+    position: absolute;
+    right: 600px;
+      width: 50px;
+      height: 50px;
+      margin-top: 35px;
+      
+  }
+.profile-pic-lappy{
+      position: absolute;
+      margin-top: 10px;
+      width: 100px;
+      height: 100px;
+      right: 450px;
+     
+  }
+.getintouch{
+    text-align: center;
+    color: 48b198;
+    margin-top: 75px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.last-desc{
+    font-family: Palatino, URW Palladio L, serif;
+    font-size: larger;
+    
+    color: black;
+}
+.contactdiv{
+    position: relative;
+}
+.contact{
+   
+    display: block;
+    background-color: 48b198;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 16px;
+}
+.third{
+    margin-top: 100px;
+    display: block;
+    background-color:#E0E9E6;
+    text-align: center;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+.linkedin{
+    color: 48b198;
+    margin-right: 5px;
+}
+.twitter{
+    color: 48b198;
+    margin-left: 5px;
+}
+.copyright{
+    color: 48b198;
+}
